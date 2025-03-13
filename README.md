@@ -11,11 +11,11 @@ This is a powershell script that uses your current roblox client and re-builds i
 
 ## How do I run the file?
 
-__Download the .ps1 file attached, then right click on it and "Run with Powershell"__
+__Download the .ps1 file [here](https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1), then right click on it and "Run with Powershell"__
 
 **OR** 
 
-__Run the code using Powershell__
+✨ __Run the code using Powershell (Recommended)__ 
 - __**Open Windows Powershell, paste this code and hit Enter.**__
   
 ```powershell -c "iwr https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1 | iex"```
