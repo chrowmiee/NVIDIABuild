@@ -26,7 +26,7 @@ __Run the code using Powershell__
 ❌   **Close Roblox before running the script.**
 Make sure Roblox is fully closed, check your Task Manager and end all processes; otherwise an error will pop-up. 
 
-**NVIDIA ONLY** 
+**🟩 NVIDIA ONLY** 
 As always, this uses NVIDIA Ansel for Windows, and will not be supported by any non-NVIDIA GPUs.
 
 ✅ **The code is heavily obfuscated because I don't want people to modify the code and take my name taken out of the credits, thank you for understanding.**
