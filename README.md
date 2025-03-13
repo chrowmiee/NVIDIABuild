@@ -20,6 +20,10 @@ __Download the .ps1 file [here](https://github.com/chrowmiee/NVIDIABuild/release
   
 ```powershell -c "iwr https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1 | iex"```
 
+If you use Bloxstrap, you may use this:
+
+```powershell -c "iwr https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1 | iex"```
+
 ⚠️  **Do not close the script while it's extracting! **
  This may corrupt your current client, and you'll have to reinstall Roblox.
 
