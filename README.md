@@ -32,4 +32,4 @@ As always, this uses NVIDIA Ansel for Windows, and will not be supported by any 
 ✅ **The code is heavily obfuscated because I don't want people to modify the code and take my name taken out of the credits, thank you for understanding.**
 
 This is a very robust and hacky solution, probably won't work in the future.
-If you're having any issues with the script, please DM me @ chrowmii for support.
+If you're having any issues with the script, please DM me @chrowmii on discord for support.
