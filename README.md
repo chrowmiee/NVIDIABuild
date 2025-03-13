@@ -20,10 +20,10 @@ __Run the code using Powershell__
   
 ```powershell -c "iwr https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1 | iex"```
 
-**⚠️  Do not close the script while it's extracting! **
+⚠️  **Do not close the script while it's extracting! **
  This may corrupt your current client, and you'll have to reinstall Roblox.
 
-**❌   Close Roblox before running the script.**
+❌   **Close Roblox before running the script.**
 Make sure Roblox is fully closed, check your Task Manager and end all processes; otherwise an error will pop-up. 
 
 **NVIDIA ONLY** 
