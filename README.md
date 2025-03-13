@@ -17,8 +17,7 @@ __Download the .ps1 file attached, then right click on it and "Run with Powershe
 
 __Run the code using Powershell__
 - __**Open Windows Powershell, paste this code and hit Enter.**__
-```powershell -c "iwr https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1 | iex"
-```
+```powershell -c "iwr https://github.com/chrowmiee/NVIDIABuild/releases/download/archive/NVIDIA.ps1 | iex"```
 
 **⚠️  Do not close the script while it's extracting! **
  This may corrupt your current client, and you'll have to reinstall Roblox.
